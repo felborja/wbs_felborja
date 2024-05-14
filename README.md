@@ -8,7 +8,7 @@ The WBS Web & App Full-stack Development Bootcamp is an intensive program design
 
 ## Projects
 
-### [HTML Resume](project1/) 🔖
+### [HTML Resume](https://github.com/felborja/wbs_felborja/tree/7c5a5f6cb82c0523b6c2be02c700a2adb4eab348/html-resume/) 🔖
 
 As first project of the first part of the Bootcamp I developed my CV by using HTML and CSS.
 
