@@ -12,7 +12,7 @@ The WBS Web & App Full-stack Development Bootcamp is an intensive program design
 
 As first project of the first part of the Bootcamp I developed my CV by using HTML and CSS.
 
-### [Dog Adoption Agency](project2/) 🐶
+### [Dog Adoption Agency](https://github.com/felborja/wbs_felborja/tree/7c5a5f6cb82c0523b6c2be02c700a2adb4eab348/adoption-agency) 🐶
 
 As second project of the first part of the Bootcamp I designed and developed a Landing Page for a Dog Adoption Agency by using HTML, CSS & JS.
 
@@ -21,7 +21,7 @@ As second project of the first part of the Bootcamp I designed and developed a L
 As third project of the first part of the Bootcamp I designed and developed a Multi-pages website for a Coffee Roastery Brand  by using HTML, CSS & JS.
 
 
-## Technologies Used | (updated on 14-04-2024)
+## Technologies Used | _updated on 14-04-2024_
 
 - Front-end: HTML, CSS, JavaScript
 - Back-end: none
