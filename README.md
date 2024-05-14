@@ -14,11 +14,11 @@ As first project of the first part of the Bootcamp I developed my CV by using HT
 
 ### [Dog Adoption Agency](project2/) 🐶
 
-As second project of the first part of the Bootcamp I designed and developed a Landing Page for a Dog Adoption Agency.
+As second project of the first part of the Bootcamp I designed and developed a Landing Page for a Dog Adoption Agency by using HTML, CSS & JS.
 
 ### [Coffee Shop Store](project3/) ☕️
 
-As third project of the first part of the Bootcamp I designed and developed a Multi-pages website for a Coffee Roastery Brand.
+As third project of the first part of the Bootcamp I designed and developed a Multi-pages website for a Coffee Roastery Brand  by using HTML, CSS & JS.
 
 
 ## Technologies Used
