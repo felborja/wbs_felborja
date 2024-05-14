@@ -21,12 +21,12 @@ As second project of the first part of the Bootcamp I designed and developed a L
 As third project of the first part of the Bootcamp I designed and developed a Multi-pages website for a Coffee Roastery Brand  by using HTML, CSS & JS.
 
 
-## Technologies Used
+## Technologies Used | (updated on 14-04-2024)
 
-- Front-end: HTML, CSS, JavaScript, React, etc.
-- Back-end: Node.js, Express, Django, Flask, etc.
-- Databases: MySQL, PostgreSQL, MongoDB, etc.
-- Additional Tools: Git, GitHub, VS Code, etc.
+- Front-end: HTML, CSS, JavaScript
+- Back-end: none
+- Databases: none
+- Additional Tools: Git, GitHub & VS Code
 
 ## Getting Started
 
