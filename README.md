@@ -8,6 +8,14 @@
 
 The WBS Web & App Full-stack Development Bootcamp is an intensive program designed to equip participants with the skills and knowledge needed to become proficient full-stack developers. Through a combination of hands-on projects, lectures, and workshops, participants learn front-end and back-end development technologies, industry best practices, and collaborative development workflows.
 
+## Getting Started
+
+I'm happy to receive feedback and suggestions for improvements. If you want to contribute, please open an issue or submit a pull request.
+
+1. Clone this repository: `git clone https://github.com/felborja/wbs-felborja.git`
+2. Navigate to the project directory: `cd wbs-felborja`
+3. Choose a project folder and follow the instructions in its README.md to get started with that project.
+
 ## Projects
 
 ### [HTML Resume](https://github.com/felborja/wbs_felborja/tree/7c5a5f6cb82c0523b6c2be02c700a2adb4eab348/html-resume/) 🔖
@@ -63,14 +71,8 @@ Objectives:
 - Nostalgic Window
 - Pagination
 - Table
+- Search Tab with Filter options (missing)
 
-## Getting Started
-
-I'm happy to receive feedback and suggestions for improvements. If you want to contribute, please open an issue or submit a pull request.
-
-1. Clone this repository: `git clone https://github.com/felborja/wbs-felborja.git`
-2. Navigate to the project directory: `cd wbs-felborja`
-3. Choose a project folder and follow the instructions in its README.md to get started with that project.
 
 ## Contact
 
