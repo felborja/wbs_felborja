@@ -1,6 +1,8 @@
  # WBS Web & App Full-stack Development Bootcamp Projects
 
-👋 Welcome to my repository for projects completed during the WBS Web & App Full-stack Development Bootcamp! Here you will find a collection of projects showcasing my progress and skills in full-stack web and app development.
+👋 Welcome to my repository for projects completed during the WBS Web & App Full-stack Development Bootcamp! 
+
+➡️ Here you will find a collection of projects showcasing my progress and skills in full-stack web and app development.
 
 ## About the Bootcamp
 
