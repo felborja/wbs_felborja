@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400..700&family=Gloria+Hallelujah&family=Noto+Sans+HK:wght@100..900&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anybody:ital,wght@0,100..900;1,100..900&family=Manrope:wght@200..800&family=Rock+Salt&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css" />
+    <title>Travel Adventures with Solotrip</title>
+  </head>
+  <body>
+    <header class="header">
+      <div class="logo-name">
+        <a href="#">
+          <img src="logo-palm.png" class="logo" alt="Logo of welty" />
+        </a>
+        <span class="company-name">Solotrip</span>
+      </div>
+      <nav class="main-nav">
+        <ul class="nav-list">
+          <li><a class="nav-list-item" href="">Adventures</a></li>
+          <li><a class="nav-list-item" href="">Success Stories</a></li>
+          <li><a class="nav-list-item" href="">About Us</a></li>
+        </ul>
+      </nav>
+      <div class="nav-buttons">
+        <ul class="btn-list">
+          <li><a class="btn-list-item--sec" href="">Sign In</a></li>
+          <li><a class="btn-list-item" href="">Book Now</a></li>
+        </ul>
+      </div>
+    </header>
+    <main>
+      <section class="section-hero container margin-bottom-xl">
+        <div class="hero grid">
+          <div class="hero-text-box">
+            <h1 class="heading-primary">
+              Explore the world <em>solo</em>, but not alone
+            </h1>
+            <p class="hero-description margin-bottom-m">
+              We are the biggest community for solo travelleres in the world!
+              With us you are never left behind.
+            </p>
+            <div class="steps-list margin-bottom-l">
+              <div class="step-cta">
+                <ion-icon class="logo-list-item" name="lock-closed-outline"></ion-icon>
+                <div class="step-text">
+                  <span class="step-title">Verify your account</span>
+                  <span class="step-description">We need to verify your identity</span>
+                </div>
+              </div>
+              <div class="step-cta">
+                <ion-icon class="logo-list-item" name="earth-outline"></ion-icon>
+                <div class="step-text">
+                  <span class="step-title">Choose where to go</span>
+                  <span class="step-description">Create or join your destination</span>
+                </div>
+              </div>
+              <div class="step-cta">
+                <ion-icon class="logo-list-item" name="navigate-outline"></ion-icon>
+                <div class="step-text">
+                  <span class="step-title">Select one package</span>
+                  <span class="step-description">Adjusted to your interests</span>
+                </div>
+              </div>
+              <div class="step-cta">
+                <ion-icon class="logo-list-item" name="people-outline"></ion-icon>
+                <div class="step-text">
+                  <span class="step-title">Team up</span>
+                  <span class="step-description">Match others in a safe way</span>
+                </div>
+              </div>
+            </div>
+            <div class="buttons-cta">
+              <div class="btn-cta">
+                <a href="#" class="btn-primary"
+                  >Plan a Trip
+                  <ion-icon name="chevron-forward-circle-outline"></ion-icon
+                ></a>
+              </div>
+              <a href="#" class="btn-special">
+              <div class="btn-story">
+                  <ion-icon name="play-circle-outline"></ion-icon
+                >
+              </div>
+              <span>Watch our Story</span>
+            </div></a>
+          </div>
+          <div class="hero-img">
+            <img src="hero 1.png" class="hero-img-car" alt="A caravan ready to be used by you" />
+            <div class="customers-tile">
+              <span class="customer-text">124k+ joined already</span>
+              <div class="list-customers">
+                <img
+                  src="customers/ben.jpg"
+                  class="img-customer"
+                  alt="Customer 1"
+                />
+                <img
+                  src="customers/dave.jpg"
+                  class="img-customer"
+                  alt="Customer 2"
+                />
+                <img
+                  src="customers/hannah.jpg"
+                  class="img-customer"
+                  alt="Customer 3"
+                />
+                <img
+                  src="customers/steve.jpg"
+                  class="img-customer"
+                  alt="Customer 4"
+                />
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section class="search-section container">
+        <h2 class="heading-secondary">Explore open <span>adventures</span></h2>
+        <p class="filter-description margin-bottom-xl">Travel solo, anywhere, safe and not alone</p>
+        <div class="blurred-background"></div>
+        <div class="search-container">
+            <div class="search-filter">
+                <form class="search-tab" action="/search" method="get">
+                    <span class="search-icon"><ion-icon name="search"></ion-icon></span>
+                    <input type="text" placeholder="Where to go?" name="query" class="search-input">
+                </form>
+                <span class="filter-text">Filter by adventure:</span>
+                <div class="buttons-filter">
+                    <div class="btn-filter">
+                        <img src="city.jpeg" alt="">
+                        <span class="logo-title">City</span>
+                    </div>
+                    <div class="btn-filter">
+                        <img src="village.jpeg" alt="">
+                        <span class="logo-title">Village</span>
+                    </div>
+                    <div class="btn-filter">
+                        <img src="beach.jpeg" alt="">
+                        <span class="logo-title">Sea</span>
+                    </div>
+                    <div class="btn-filter">
+                        <img src="mountain.jpeg" alt="">
+                        <span class="logo-title">Mountain</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    </main>
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"
+    ></script>
+  </body>
+</html>

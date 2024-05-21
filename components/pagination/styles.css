@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.8rem;
+  font-family: "Quicksand", sans-serif;
+  line-height: 1;
+  font-weight: 400;
+  color: #575166;
+}
+
+.pagination {
+  display: flex;
+  gap: 12px;
+  margin-top: 9.6rem;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-small {
+  width: 48px;
+  height: 48px;
+  border: 1px solid #ddcfff;
+  border-radius: 50%;
+  background: none;
+  transition-duration: 0.3s;
+  cursor: pointer;
+  stroke: #ddcfff;
+}
+
+.btn-icon {
+  height: 24px;
+  width: 24px;
+  stroke: #ddcfff;
+}
+
+.number {
+  font-size: 16px;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  border: none;
+  background: none;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  transition-duration: 0.3s;
+  text-decoration: none;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.number:link,
+.number:visited {
+  font-size: 18px;
+  color: #413d4c;
+  text-decoration: none;
+}
+
+.btn-small:hover,
+.number:hover {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ddcfff;
+  color: #fff;
+  stroke: #fff;
+}
+
+a.number.page-link--current {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ddcfff;
+  color: #fff;
+}
