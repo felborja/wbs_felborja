@@ -6,13 +6,13 @@
 
 ## Quick Link to Projects:
 
-→ [My CV]([https://example.com](https://felborja.github.io/wbs_felborja/html-resume/index.html)
+→ [My CV](https://felborja.github.io/wbs_felborja/html-resume/index.html)
 
-→ Adoption Agency: https://felborja.github.io/wbs_felborja/adoption-agency/index.html
+→ [Adoption Agency](https://felborja.github.io/wbs_felborja/adoption-agency/index.html)
 
-→ Travel Agency: https://felborja.github.io/wbs_felborja/travel-agency/index.html
+→ [Travel Agency](https://felborja.github.io/wbs_felborja/travel-agency/index.html)
 
-→ Zelting Store: https://felborja.github.io/wbs_felborja/zelting-landing/index.html
+→ [Zelting Store](https://felborja.github.io/wbs_felborja/zelting-landing/index.html)
 
 
 ## About the Bootcamp
