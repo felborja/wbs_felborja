@@ -6,7 +6,7 @@
 
 ## Quick Link to Projects:
 
-→ [My CV]([https://example.com](https://felborja.github.io/wbs_felborja/html-resume/index.html)) {:target="_blank"}
+→ [My CV]([https://example.com](https://felborja.github.io/wbs_felborja/html-resume/index.html)
 
 → Adoption Agency: https://felborja.github.io/wbs_felborja/adoption-agency/index.html
 
