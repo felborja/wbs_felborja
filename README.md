@@ -1,12 +1,19 @@
  # WBS Web & App Full-stack Development Bootcamp Projects
 
- Quick Link to Projects:
-
- Adoption Agency: https://felborja.github.io/wbs_felborja/adoption-agency/index.html
-
-👋 Welcome to my repository for projects completed during the WBS Web & App Full-stack Development Bootcamp! 
+ 👋 Welcome to my repository for projects completed during the WBS Web & App Full-stack Development Bootcamp! 
 
 ➡️ Here you will find a collection of projects showcasing my progress and skills in full-stack web and app development.
+
+## Quick Link to Projects:
+
+→ My CV: https://felborja.github.io/wbs_felborja/html-resume/index.html
+
+→ Adoption Agency: https://felborja.github.io/wbs_felborja/adoption-agency/index.html
+
+→ Travel Agency: https://felborja.github.io/wbs_felborja/travel-agency/index.html
+
+→ Zelting Store: https://felborja.github.io/wbs_felborja/zelting-landing/index.html
+
 
 ## About the Bootcamp
 
