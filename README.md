@@ -32,7 +32,7 @@ Objectives:
 - ...
 - ...
 
-### [Zelting Shop Store](project3/) 🏕️ (In progress...)
+### [Zelting Shop Store](https://github.com/felborja/wbs_felborja/tree/ca0e216856ebfa52e2ea451f252004be9f99ce1b/zelting-landing) 🏕️ (In progress...)
 
 As third project of the first part of the Bootcamp I designed and developed a Multi-pages website store for the outdoor brand Zelting by using HTML, CSS & and a bit of JS.
 
@@ -43,7 +43,7 @@ Objectives:
 - ...
 - ...
 
-### [Travel Agency](project4/) 🏕️ (In progress...)
+### [Travel Agency](https://github.com/felborja/wbs_felborja/tree/ca0e216856ebfa52e2ea451f252004be9f99ce1b/travel-agency) ✈️ (In progress...)
 
 As fourth project of the first part of the Bootcamp I designed the Landing Page for a Travel Agency by using HTML & CSS.
 
@@ -54,7 +54,7 @@ Objectives:
 - ...
 - ...
 
-### [Components](project5/) 👨🏽‍💻 (In progress...)
+### [Components]([components](https://github.com/felborja/wbs_felborja/tree/7994748479c7e4c0c210f0a1c2e68e8a0b766dc3/components)) 👨🏽‍💻 (In progress...)
 
 ## Technologies Used | _updated on 14-04-2024_
 
