@@ -12,31 +12,63 @@ The WBS Web & App Full-stack Development Bootcamp is an intensive program design
 
 As first project of the first part of the Bootcamp I developed my CV by using HTML and CSS.
 
+Objectives:
+
+- ...
+- ...
+- ...
+- ...
+
 ### [Dog Adoption Agency](https://github.com/felborja/wbs_felborja/tree/7c5a5f6cb82c0523b6c2be02c700a2adb4eab348/adoption-agency) 🐶
 
 As second project of the first part of the Bootcamp I designed and developed a Landing Page for a Dog Adoption Agency by using HTML, CSS & JS.
 
-### [Coffee Shop Store](project3/) ☕️
+Objectives:
 
-As third project of the first part of the Bootcamp I designed and developed a Multi-pages website for a Coffee Roastery Brand  by using HTML, CSS & JS.
+- ...
+- ...
+- ...
+- ...
 
+### [Zelting Shop Store](project3/) 🏕️ (In progress...)
+
+As third project of the first part of the Bootcamp I designed and developed a Multi-pages website store for the outdoor brand Zelting by using HTML, CSS & and a bit of JS.
+
+Objectives:
+
+- ...
+- ...
+- ...
+- ...
+
+### [Travel Agency](project4/) 🏕️ (In progress...)
+
+As fourth project of the first part of the Bootcamp I designed the Landing Page for a Travel Agency by using HTML & CSS.
+
+Objectives:
+
+- ...
+- ...
+- ...
+- ...
+
+### [Components](project5/) 👨🏽‍💻 (In progress...)
 
 ## Technologies Used | _updated on 14-04-2024_
 
-- Front-end: HTML, CSS, JavaScript
-- Back-end: none
-- Databases: none
-- Additional Tools: Git, GitHub & VS Code
+- Accordion
+- Carrusel
+- Nostalgic Window
+- Pagination
+- Table
 
 ## Getting Started
+
+I'm happy to receive feedback and suggestions for improvements. If you want to contribute, please open an issue or submit a pull request.
 
 1. Clone this repository: `git clone https://github.com/felborja/wbs-felborja.git`
 2. Navigate to the project directory: `cd wbs-felborja`
 3. Choose a project folder and follow the instructions in its README.md to get started with that project.
-
-## Contribution
-
-Feedback and contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
 
 ## Contact
 
