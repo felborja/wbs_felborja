@@ -75,8 +75,6 @@ Objectives:
 
 ### [Components](https://github.com/felborja/wbs_felborja/tree/7994748479c7e4c0c210f0a1c2e68e8a0b766dc3/components)) 👨🏽‍💻 (In progress...)
 
-## Technologies Used | _updated on 14-04-2024_
-
 - Accordion
 - Carrusel
 - Nostalgic Window
