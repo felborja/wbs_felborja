@@ -528,12 +528,6 @@ input:focus::placeholder {
   background-color: #fbfaff;
 }
 
-.dog-picture {
-  border-radius: 0.8rem;
-  height: auto;
-  max-width: 100%;
-  margin-bottom: 2.4rem;
-}
 .dog-img-card {
   background-color: #fff;
   border-radius: 1.6rem;
@@ -543,15 +537,22 @@ input:focus::placeholder {
   cursor: pointer;
 }
 
+.dog-picture {
+  border-radius: 0.8rem;
+  height: auto;
+  max-width: 100%;
+  margin-bottom: 2.4rem;
+}
+
 .dog-img-card:hover {
   transform: translateX(-1.2rem);
   box-shadow: 1.6rem 1.6rem 0 rgb(204, 231, 232);
 }
 
 .tag {
-  display: inline-block;
+  /* display: inline-block; */
   padding: 0.4rem 0.8rem;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
   text-transform: uppercase;
   border-radius: 0.4rem;
   font-weight: 600;
@@ -559,6 +560,7 @@ input:focus::placeholder {
 
 .dog-tags {
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   justify-content: center;
   gap: 1.6rem;
@@ -566,7 +568,7 @@ input:focus::placeholder {
 
 .dog-name {
   text-align: center;
-  font-size: 3.2rem;
+  font-size: clamp(1.8rem, 2vw, 3.2rem);
   font-weight: 600;
   margin-bottom: 2.4rem;
 }

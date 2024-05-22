@@ -1,0 +1,83 @@
+/* We shouldn't use PXs in media queries, 
+because with PXs will not adjust for font-size and zoom */
+
+/* rem and em do not depend on html font-size in media queries */
+
+/* Instead, 1rem = 1 em = 16px */
+
+
+/************************/
+/* BELOW 1200px (Tablets) */
+/************************/
+
+/* 1200/16 = 75em */
+
+@media (max-width: 75em) {
+  html {
+    font-size: 56.25%;
+  }
+
+  .grid {
+    column-gap: 4.8rem;
+    row-gap: 6.4rem;
+  }
+
+  .heading-secondary {
+    font-size: 3.6rem;
+  }
+
+  .heading-tertiary {
+    font-size: 2.4rem;
+  }
+
+  .header {
+    padding: 0 3.2rem;
+  }
+
+  .main-nav-list {
+    gap: 3.2rem;
+  }
+
+  .hero {
+    gap: 4.8rem;
+  }
+
+  /************************/
+/* BELOW 1170px (Smaller desktops) */
+/************************/
+
+/* 1170/16 = 73,125em */
+
+@media (max-width: 73.125em) {
+  .dog-tags {
+    flex-direction: column;
+  }
+
+
+  .step-app {
+    justify-content: space-between;
+    height: 100%;
+  }
+}
+
+
+/************************/
+/* BELOW 900px (Tablets) */
+/************************/
+
+/* 900/16 = 56,25em */
+
+@media (max-width: 56.25em) {
+  html {
+    font-size: 50%;
+  }
+  .step-app {
+    justify-content: space-between;
+    height: 100%;
+  }
+
+  .dog-img {
+    height: 50px;
+    width: 50px;
+  }
+}
