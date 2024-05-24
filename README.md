@@ -1,14 +1,14 @@
- # WBS Web & App Full-stack Development Bootcamp Projects
+ # Felipe's Projects
 
- 👋 Welcome to my repository for projects completed during the WBS Web & App Full-stack Development Bootcamp! 
+ 👋 Welcome to my repository for projects that I'm completing during the Web & App Full-stack Development Bootcamp at WBS Coding School
 
 ➡️ Here you will find a collection of projects showcasing my progress and skills in full-stack web and app development.
 
 ## Quick Link to Projects:
 
-→ [My CV](https://felborja.github.io/wbs_felborja/html-resume/index.html)
-
 → [Adoption Agency](https://felborja.github.io/wbs_felborja/adoption-agency/index.html)
+
+→ [My CV](https://felborja.github.io/wbs_felborja/html-resume/index.html)
 
 → [Travel Agency](https://felborja.github.io/wbs_felborja/travel-agency/index.html)
 
@@ -33,45 +33,21 @@ I'm happy to receive feedback and suggestions for improvements. If you want to c
 
 As first project of the first part of the Bootcamp I developed my CV by using HTML and CSS.
 
-Objectives:
-
-- ...
-- ...
-- ...
-- ...
 
 ### [Dog Adoption Agency](https://github.com/felborja/wbs_felborja/tree/7c5a5f6cb82c0523b6c2be02c700a2adb4eab348/adoption-agency) 🐶
 
 As second project of the first part of the Bootcamp I designed and developed a Landing Page for a Dog Adoption Agency by using HTML, CSS & JS.
 
-Objectives:
-
-- ...
-- ...
-- ...
-- ...
 
 ### [Zelting Shop Store](https://github.com/felborja/wbs_felborja/tree/ca0e216856ebfa52e2ea451f252004be9f99ce1b/zelting-landing) 🏕️ (In progress...)
 
 As third project of the first part of the Bootcamp I designed and developed a Multi-pages website store for the outdoor brand Zelting by using HTML, CSS & and a bit of JS.
 
-Objectives:
-
-- ...
-- ...
-- ...
-- ...
 
 ### [Travel Agency](https://github.com/felborja/wbs_felborja/tree/ca0e216856ebfa52e2ea451f252004be9f99ce1b/travel-agency) ✈️ (In progress...)
 
 As fourth project of the first part of the Bootcamp I designed the Landing Page for a Travel Agency by using HTML & CSS.
 
-Objectives:
-
-- ...
-- ...
-- ...
-- ...
 
 ### [Components](https://github.com/felborja/wbs_felborja/tree/7994748479c7e4c0c210f0a1c2e68e8a0b766dc3/components) 👨🏽‍💻 (In progress...)
 
