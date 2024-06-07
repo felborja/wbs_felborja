@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Rock, Scissors & Paper</title>
+    <link rel="stylesheet" href="/R,S & P/styles.css" />
+  </head>
+  <body>
+    <header class="header container">
+      <h1 class="primary-title">Choose One Option to Play</h1>
+      <span class="game-result">Rock, Scissors or Paper</span>
+    </header>
+    <section class="counter container grid-3">
+      <div class="player">
+        <span class="user-lose">👎</span>
+        <span class="user-win">👍</span>
+        <span class="player-name">John Kennedy</span>
+      </div>
+      <div>
+        <span class="user-score">0</span>:<span class="computer-score">0</span>
+      </div>
+      <div class="computer">
+        <img src="" class="player-img" alt="" />
+        <span class="computer">Computer</span>
+        <span class="computer-lose">👎</span>
+        <span class="computer-win">👍</span>
+      </div>
+    </section>
+    <section>
+      <div class="options">
+        <button class="alternative" id="rock">Rock</button>
+        <button class="alternative" id="scissors">Scissors</button>
+        <button class="alternative" id="paper">Paper</button>
+      </div>
+      <div class="btn-container">
+        <button class="restart">Restart</button>
+        <button class="change-name">Change my name</button>
+        <button class="save-score">Save My Score</button>
+      </div>
+    </section>
+    <section>
+      <ul class="players-score"></ul>
+    </section>
+
+    <script src="/R,S & P/script.js"></script>
+  </body>
+</html>
